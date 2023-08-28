@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-groceries-list/static/css/main.a86bda18.css",
-    "main.js": "/react-groceries-list/static/js/main.848570c3.js",
-    "index.html": "/react-groceries-list/index.html",
-    "main.a86bda18.css.map": "/react-groceries-list/static/css/main.a86bda18.css.map",
-    "main.848570c3.js.map": "/react-groceries-list/static/js/main.848570c3.js.map"
+    "main.css": "/react_groceries_list/static/css/main.a86bda18.css",
+    "main.js": "/react_groceries_list/static/js/main.14692677.js",
+    "index.html": "/react_groceries_list/index.html",
+    "main.a86bda18.css.map": "/react_groceries_list/static/css/main.a86bda18.css.map",
+    "main.14692677.js.map": "/react_groceries_list/static/js/main.14692677.js.map"
   },
   "entrypoints": [
     "static/css/main.a86bda18.css",
-    "static/js/main.848570c3.js"
+    "static/js/main.14692677.js"
   ]
 }
